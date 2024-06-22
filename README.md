@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋, I'm Ashwin Essan<br><br>A passionate full-stack developer from Coimbatore, India.<br><br>I'm also inquisitive about MLOps and I major in Data Science.<br><br>I'm also by the way a Competitive Programmer.⚡<br>
+Hey 👋, I'm Ashwin Essan<br><br>A passionate full-stack developer from Coimbatore, India.<br><br>I'm also inquisitive about MLOps and I major in Data Science.<br><br>I'm also, by the way a Competitive Programmer.⚡<br>
 
 
 ## 🌐 Socials:
